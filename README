@@ -1,0 +1,7 @@
+To bring everyting up:
+	bash deploy.sh
+
+To destroy all created resources and pods:
+	bash down.sh
+
+Configure default topics within kafka-rc.yaml. A few are provided as an example.
